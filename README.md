@@ -1,5 +1,7 @@
-## Hi there 👋
-## Hi there 👋
+# Hi there, I'm Venkadesan Murugesan 👋
+```
+lol
+```
 <!--
 **venkadesanmurugesan/venkadesanmurugesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
