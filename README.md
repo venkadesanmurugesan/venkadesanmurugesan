@@ -1,9 +1,2 @@
 # Hi there, I'm Venkadesan Murugesan 👋
-> 🔭 I’m currently working on ... <br />
-> 🌱 I’m currently learning ...  <br />
-> 👯 I’m looking to collaborate on ...  <br />
-> 🤔 I’m looking for help with ...  <br />
-> 💬 Ask me about ...  <br />
-> 📫 How to reach me: ...  <br />
-> 😄 Pronouns: ...  <br />
-> ⚡ Fun fact: ...  <br />
+> I am Venkadesan. I'm from Coimbatore. My hobbies are Learning new technologies from YouTube sources and playing cricket and chess. I aim to become a Software Engineer.
